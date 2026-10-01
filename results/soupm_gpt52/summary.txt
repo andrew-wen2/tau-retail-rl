@@ -1,0 +1,34 @@
+
+soupm_gpt52
+  tasks              114
+  trials             8
+  pass^1             68.5
+  pass^2             54.3
+  pass^3             45.4
+  pass^4             39.1
+  pass^5             34.5
+  pass^6             30.9
+  pass^7             28.0
+  pass^8             25.4
+  never_solved       7
+  mixed              78
+  band_0.6-1.0       51
+  always_solved      29
+  pass^4_if_band@.95 62.6
+  agent_turns        14.7
+  agent_prompt_tok   114584.2
+  agent_gen_tok      3031.7
+  sec/episode        76.6
+  endings            {'user_stop': 910, 'too_many_errors': 2}
+
+  success histogram (c of 8 trials, 114 tasks)
+    0/8  ##                                          7 (  6.1%)  zero-gradient
+    1/8  ##                                          5 (  4.4%)
+    2/8  #                                           2 (  1.8%)
+    3/8  ####                                       11 (  9.6%)
+    4/8  ###                                         9 (  7.9%)
+    5/8  #####                                      14 ( 12.3%)
+    6/8  #####                                      14 ( 12.3%)
+    7/8  ########                                   23 ( 20.2%)
+    8/8  ##########                                 29 ( 25.4%)  zero-gradient
+    band of 51: enough headroom for a pass^4 gain

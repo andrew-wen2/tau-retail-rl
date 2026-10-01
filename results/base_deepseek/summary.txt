@@ -1,0 +1,25 @@
+
+base_deepseek
+  tasks              114
+  trials             3
+  pass^1             62.7
+  pass^2             44.7
+  pass^3             34.2
+  never_solved       10
+  mixed              73
+  band_0.6-1.0       32
+  always_solved      31
+  pass^4_if_band@.95 51.5
+  agent_turns        15.3
+  agent_prompt_tok   121883.3
+  agent_gen_tok      2954.0
+  sec/episode        96.1
+  endings            {'user_stop': 451, 'max_steps': 2}
+
+  success histogram (c of 4 trials, 111 tasks)
+    0/4  ####                                       10 (  9.0%)  zero-gradient
+    1/4  #####                                      14 ( 12.6%)
+    2/4  #########                                  24 ( 21.6%)
+    3/4  ############                               32 ( 28.8%)
+    4/4  ###########                                31 ( 27.9%)  zero-gradient
+    band of 32: enough headroom for a pass^4 gain

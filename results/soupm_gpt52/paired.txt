@@ -1,0 +1,16 @@
+tasks 114 | trials base Counter({8: 114}) trained Counter({8: 114})
+dead episodes: base 0, trained 0 | endings base {'user_stop': 909, 'max_steps': 1, 'too_many_errors': 2} trained {'user_stop': 910, 'too_many_errors': 2}
+
+== full reward
+pass^1: base  68.2  trained  68.5  diff  +0.3  95% CI [ -3.6,  +4.3]  P(diff<=0) 0.444
+pass^2: base  54.5  trained  54.3  diff  -0.2  95% CI [ -5.2,  +5.0]  P(diff<=0) 0.517
+pass^4: base  39.8  trained  39.1  diff  -0.6  95% CI [ -7.1,  +6.0]  P(diff<=0) 0.571
+
+== DB check only
+pass^1: base  70.7  trained  71.4  diff  +0.7  95% CI [ -3.2,  +4.5]  P(diff<=0) 0.372
+pass^2: base  57.9  trained  58.4  diff  +0.5  95% CI [ -4.4,  +5.5]  P(diff<=0) 0.412
+pass^4: base  43.8  trained  44.9  diff  +1.1  95% CI [ -5.4,  +7.5]  P(diff<=0) 0.368
+
+per-task success count: up 36, down 37, same 41
+histogram c/8   base: [8, 6, 3, 5, 13, 13, 15, 20, 31]
+histogram c/8 trained: [7, 5, 2, 11, 9, 14, 14, 23, 29]

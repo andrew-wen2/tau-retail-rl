@@ -1,0 +1,24 @@
+== 1. pass^1 difference by task type (points, trained - base, 95% CI)
+all                                  n=114  base 0.63  diff  +3.5 [ -1.2,  +8.3]  up/down 38/23
+has NL assertions                    n= 40  base 0.53  diff  +0.4 [ -8.8,  +9.4]  up/down 12/9
+no NL assertions                     n= 74  base 0.68  diff  +5.2 [ +0.1, +10.0]  up/down 26/14
+has communicate_info                 n= 36  base 0.55  diff  +0.7 [ -9.7, +10.4]  up/down 11/8
+0 writes                             n= 10  base 0.82  diff  -2.5 [-15.0,  +7.5]  up/down 1/1
+1 write                              n= 60  base 0.65  diff  +2.9 [ -3.8,  +9.2]  up/down 20/12
+2 writes                             n= 23  base 0.61  diff  +7.2 [ -2.9, +17.0]  up/down 10/4
+3+ writes                            n= 21  base 0.47  diff  +4.0 [ -7.5, +16.7]  up/down 7/6
+writes on 2+ orders                  n= 39  base 0.56  diff  +3.8 [ -4.7, +12.6]  up/down 13/10
+uses return_delivered_order_items    n= 31  base 0.69  diff  -4.0 [-13.7,  +6.5]  up/down 8/10
+uses exchange_delivered_order_items  n= 29  base 0.64  diff  +4.6 [ -4.3, +13.2]  up/down 9/6
+uses cancel_pending_order            n= 18  base 0.60  diff  +7.9 [ -1.9, +19.0]  up/down 6/3
+uses modify_pending_order_items      n= 35  base 0.45  diff  +6.9 [ -1.4, +15.7]  up/down 15/8
+uses modify_pending_order_address    n= 20  base 0.43  diff +14.6 [ +4.6, +25.0]  up/down 11/2
+uses modify_user_address             n= 10  base 0.53  diff +14.2 [ +0.0, +27.5]  up/down 6/1
+
+== 2. tasks whose gold has no write
+base     10 tasks, 40 episodes: 7 failures, 2 of them made a write: {'return_delivered_order_items': 6}
+trained  10 tasks, 40 episodes: 8 failures, 4 of them made a write: {'return_delivered_order_items': 12}
+
+== 3. authentication before the first write (episodes that wrote)
+base     408/408 = 1.000
+trained  414/414 = 1.000

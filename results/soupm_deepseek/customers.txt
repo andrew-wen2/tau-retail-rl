@@ -1,0 +1,18 @@
+== pass^1 (114 tasks)  base A 62.7  trained A 67.1  base B 68.2  trained B 68.5
+gain A (trained - base)   +4.4  95% CI [ -0.5,  +9.4]  P(<=0) 0.039
+gain B (trained - base)   +0.3  95% CI [ -3.6,  +4.3]  P(<=0) 0.444
+gain A - gain B           +4.1  95% CI [ -1.9,  +9.8]  P(<=0) 0.087
+base: A - B               -5.5  95% CI [-10.2,  -0.8]  P(<=0) 0.990
+trained: A - B            -1.4  95% CI [ -6.8,  +4.1]  P(<=0) 0.709
+== pass^2 (114 tasks)  base A 44.7  trained A 52.2  base B 54.5  trained B 54.3
+gain A (trained - base)   +7.5  95% CI [ +1.3, +13.7]  P(<=0) 0.009
+gain B (trained - base)   -0.2  95% CI [ -5.2,  +5.0]  P(<=0) 0.517
+gain A - gain B           +7.6  95% CI [ -0.1, +15.2]  P(<=0) 0.027
+base: A - B               -9.7  95% CI [-16.1,  -3.6]  P(<=0) 0.999
+trained: A - B            -2.1  95% CI [ -9.1,  +5.1]  P(<=0) 0.728
+== pass^4 (111 tasks)  base A 27.9  trained A 38.7  base B 40.8  trained B 40.2
+gain A (trained - base)  +10.8  95% CI [ +1.8, +19.8]  P(<=0) 0.013
+gain B (trained - base)   -0.6  95% CI [ -7.5,  +6.3]  P(<=0) 0.577
+gain A - gain B          +11.4  95% CI [ +0.6, +22.4]  P(<=0) 0.020
+base: A - B              -12.9  95% CI [-21.0,  -5.1]  P(<=0) 0.999
+trained: A - B            -1.5  95% CI [-11.0,  +8.0]  P(<=0) 0.614

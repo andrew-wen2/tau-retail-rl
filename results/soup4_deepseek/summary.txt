@@ -1,0 +1,26 @@
+
+soup4_deepseek
+  tasks              114
+  trials             4
+  pass^1             66.2
+  pass^2             50.7
+  pass^3             41.9
+  pass^4             36.0
+  never_solved       9
+  mixed              64
+  band_0.6-1.0       27
+  always_solved      41
+  pass^4_if_band@.95 56.4
+  agent_turns        15.3
+  agent_prompt_tok   126089.2
+  agent_gen_tok      2969.3
+  sec/episode        94.2
+  endings            {'user_stop': 454, 'too_many_errors': 1, 'max_steps': 1}
+
+  success histogram (c of 4 trials, 114 tasks)
+    0/4  ###                                         9 (  7.9%)  zero-gradient
+    1/4  ######                                     17 ( 14.9%)
+    2/4  #######                                    20 ( 17.5%)
+    3/4  #########                                  27 ( 23.7%)
+    4/4  ##############                             41 ( 36.0%)  zero-gradient
+    band of 27: enough headroom for a pass^4 gain
