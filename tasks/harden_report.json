@@ -1,0 +1,6814 @@
+{
+ "tb_0000": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "Wall Clock",
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0001": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "612.35",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "Yoga Mat",
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0002": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W4435622",
+    "item_ids": [
+     "4694984344"
+    ],
+    "new_item_ids": [
+     "8277474082"
+    ],
+    "payment_method_id": "gift_card_1725971"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0003": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0004": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0006": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W1504875",
+    "item_ids": [
+     "4920090458"
+    ],
+    "payment_method_id": "paypal_6262583"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0009": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0010": {
+  "vague_targets": 0,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0012": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "49.67",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": "New York",
+  "twin_items": false
+ },
+ "tb_0013": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1027.76",
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "San Francisco",
+  "twin_items": false
+ },
+ "tb_0014": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": "155.99",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0015": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "exchange_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0016": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "4914.76",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0017": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0018": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W6319233",
+    "item_ids": [
+     "8798690242"
+    ],
+    "payment_method_id": "credit_card_9308469"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0019": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "33.26",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0020": {
+  "vague_targets": 3,
+  "change_of_mind": false,
+  "stated_amount": "35.87",
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0021": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0023": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "11.15",
+  "forbidden_first": "modify_pending_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0025": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0026": {
+  "vague_targets": 3,
+  "change_of_mind": "drop",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0028": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0030": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "7.93",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Fort Worth",
+  "twin_items": false
+ },
+ "tb_0031": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0032": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1054.43",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Phoenix",
+  "twin_items": false
+ },
+ "tb_0033": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": "109.58",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0034": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "exchange_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0037": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W7450915",
+    "item_ids": [
+     "3334537816"
+    ],
+    "payment_method_id": "gift_card_6892585"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0038": {
+  "vague_targets": 2,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0039": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W4840405",
+    "item_ids": [
+     "7597543861"
+    ],
+    "payment_method_id": "gift_card_4710915"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0040": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Washington",
+  "twin_items": false
+ },
+ "tb_0041": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W4556683",
+    "item_ids": [
+     "9132333852"
+    ],
+    "payment_method_id": "credit_card_9557278"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Los Angeles",
+  "twin_items": false
+ },
+ "tb_0042": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0043": {
+  "vague_targets": 0,
+  "change_of_mind": "drop",
+  "stated_amount": "598.57",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": "Houston",
+  "twin_items": false
+ },
+ "tb_0044": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "43.25",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0045": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0046": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Jacksonville",
+  "twin_items": false
+ },
+ "tb_0049": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1434.88",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0050": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "47.76",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0051": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": "86.89",
+  "forbidden_first": "exchange_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0052": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "return_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0054": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W3467101",
+    "item_ids": [
+     "7381052709"
+    ],
+    "new_item_ids": [
+     "6942241102"
+    ],
+    "payment_method_id": "gift_card_6009199"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0056": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0058": {
+  "vague_targets": 0,
+  "change_of_mind": "drop",
+  "stated_amount": "255.98",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0059": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0060": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1986.27",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0061": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "51.98",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0062": {
+  "vague_targets": 2,
+  "change_of_mind": "switch",
+  "stated_amount": "1643.01",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": "Chicago",
+  "twin_items": false
+ },
+ "tb_0063": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0064": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W6874763",
+    "item_ids": [
+     "9494281769"
+    ],
+    "payment_method_id": "credit_card_4046723"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": true,
+  "default_address": "Philadelphia",
+  "twin_items": true
+ },
+ "tb_0065": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "288.75",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0066": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W1075114",
+    "item_ids": [
+     "4582956489"
+    ],
+    "payment_method_id": "gift_card_5115976"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": true
+ },
+ "tb_0067": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W5257743",
+    "item_ids": [
+     "1657832319"
+    ],
+    "new_item_ids": [
+     "6017636844"
+    ],
+    "payment_method_id": "paypal_6882355"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0068": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1507.57",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0069": {
+  "vague_targets": 3,
+  "change_of_mind": false,
+  "stated_amount": "514.72",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": "New York",
+  "twin_items": false
+ },
+ "tb_0071": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "3256.18",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "Running Shoes",
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0072": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W2092674",
+    "item_ids": [
+     "3264130640"
+    ],
+    "payment_method_id": "paypal_2499655"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0074": {
+  "vague_targets": 2,
+  "change_of_mind": "switch",
+  "stated_amount": "328.70",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0075": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "return_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0076": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0077": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0078": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0079": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "exchange_delivered_order_items",
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0080": {
+  "vague_targets": 1,
+  "change_of_mind": "drop",
+  "stated_amount": "16.97",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0082": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "173.83",
+  "forbidden_first": "modify_pending_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0085": {
+  "vague_targets": 0,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0086": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W2002395",
+    "item_ids": [
+     "9929635042"
+    ],
+    "payment_method_id": "gift_card_6117300"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0087": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0088": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0089": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "321.18",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0090": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0091": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W2421430",
+    "item_ids": [
+     "6384525445"
+    ],
+    "payment_method_id": "credit_card_4420174"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0092": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": true,
+  "default_address": "Denver",
+  "twin_items": false
+ },
+ "tb_0093": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "return_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0094": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "321.18",
+  "forbidden_first": "return_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0095": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "return_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0096": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "145.48",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0097": {
+  "vague_targets": 0,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0098": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "modify_pending_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": "Washington",
+  "twin_items": false
+ },
+ "tb_0099": {
+  "vague_targets": 1,
+  "change_of_mind": "drop",
+  "stated_amount": "404.70",
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0100": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "607.59",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0101": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": "909.70",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0102": {
+  "vague_targets": 1,
+  "change_of_mind": "drop",
+  "stated_amount": "525.28",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Philadelphia",
+  "twin_items": false
+ },
+ "tb_0103": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W4442043",
+    "item_ids": [
+     "5917587651"
+    ],
+    "new_item_ids": [
+     "9851293632"
+    ],
+    "payment_method_id": "paypal_1191071"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0104": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "147.05",
+  "forbidden_first": "return_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "San Jose",
+  "twin_items": false
+ },
+ "tb_0105": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0106": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W7209932",
+    "item_ids": [
+     "5047954489"
+    ],
+    "new_item_ids": [
+     "3234800602"
+    ],
+    "payment_method_id": "gift_card_2611937"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0107": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "Mechanical Keyboard",
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0108": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "Action Camera",
+  "info_question": "tracking",
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0110": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "exchange_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "San Diego",
+  "twin_items": false
+ },
+ "tb_0111": {
+  "vague_targets": 2,
+  "change_of_mind": "drop",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0112": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": "316.29",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0113": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0114": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0115": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": "1741.80",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0116": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W3223435",
+    "item_ids": [
+     "6901578702"
+    ],
+    "new_item_ids": [
+     "8470360507"
+    ],
+    "payment_method_id": "gift_card_9708163"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0117": {
+  "vague_targets": 2,
+  "change_of_mind": "drop",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Washington",
+  "twin_items": false
+ },
+ "tb_0118": {
+  "vague_targets": 0,
+  "change_of_mind": "switch",
+  "stated_amount": "1227.43",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0119": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": "77.15",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0120": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "8.17",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0121": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": "547.55",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0122": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "7.72",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0123": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0124": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W8727985",
+    "item_ids": [
+     "3788616824"
+    ],
+    "payment_method_id": "gift_card_9450778"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0125": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "164.46",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0126": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": "1250.62",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0127": {
+  "vague_targets": 1,
+  "change_of_mind": "drop",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0128": {
+  "vague_targets": 0,
+  "change_of_mind": "drop",
+  "stated_amount": "303.01",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0129": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0131": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "14.81",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "New York",
+  "twin_items": false
+ },
+ "tb_0132": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "2831.77",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "New York",
+  "twin_items": false
+ },
+ "tb_0133": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "9.87",
+  "forbidden_first": "modify_pending_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0134": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "1.43",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0135": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W4143549",
+    "item_ids": [
+     "8170914468"
+    ],
+    "new_item_ids": [
+     "9879255677"
+    ],
+    "payment_method_id": "paypal_3572679"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0137": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0138": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "13.26",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0139": {
+  "vague_targets": 2,
+  "change_of_mind": "drop",
+  "stated_amount": "456.35",
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0140": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "exchange_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0141": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": "2.66",
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Jacksonville",
+  "twin_items": false
+ },
+ "tb_0143": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "3214.75",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0145": {
+  "vague_targets": 0,
+  "change_of_mind": "switch",
+  "stated_amount": "99.51",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0146": {
+  "vague_targets": 3,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0147": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0149": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0151": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W6874763",
+    "item_ids": [
+     "6700049080"
+    ],
+    "new_item_ids": [
+     "6117189161"
+    ],
+    "payment_method_id": "credit_card_4046723"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0153": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "Laptop",
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0155": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "674.20",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "Bookshelf",
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0156": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "261.11",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0157": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "7.22",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0158": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "153.81",
+  "forbidden_first": "return_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0159": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1338.94",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0160": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "348.36",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0162": {
+  "vague_targets": 0,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0163": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "2.06",
+  "forbidden_first": "modify_pending_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0164": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0166": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Dallas",
+  "twin_items": false
+ },
+ "tb_0167": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W6519831",
+    "item_ids": [
+     "9480266227"
+    ],
+    "payment_method_id": "credit_card_5353742"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0168": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1370.75",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": "Jacksonville",
+  "twin_items": false
+ },
+ "tb_0169": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0171": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0172": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0174": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "2.91",
+  "forbidden_first": "exchange_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0175": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0176": {
+  "vague_targets": 5,
+  "change_of_mind": false,
+  "stated_amount": "7.22",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": "San Diego",
+  "twin_items": false
+ },
+ "tb_0177": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "exchange_delivered_order_items",
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0178": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "2671.10",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "Gaming Mouse",
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0179": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "787.72",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "Hiking Boots",
+  "info_question": null,
+  "by_destination": true,
+  "default_address": "Jacksonville",
+  "twin_items": false
+ },
+ "tb_0180": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W5272531",
+    "item_ids": [
+     "2698416822"
+    ],
+    "payment_method_id": "credit_card_6824399"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0181": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0182": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "4914.15",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0183": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "219.88",
+  "forbidden_first": "return_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0184": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "98.25",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0185": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": "Austin",
+  "twin_items": false
+ },
+ "tb_0186": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0187": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W1605168",
+    "item_ids": [
+     "8214883393"
+    ],
+    "payment_method_id": "paypal_3473552"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0188": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0189": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "2779.64",
+  "forbidden_first": "return_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0190": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Jacksonville",
+  "twin_items": false
+ },
+ "tb_0191": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "41.43",
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0193": {
+  "vague_targets": 2,
+  "change_of_mind": "drop",
+  "stated_amount": "6.36",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": true
+ },
+ "tb_0195": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "46.51",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0196": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0197": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": true
+ },
+ "tb_0198": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "15.78",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0199": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0200": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Phoenix",
+  "twin_items": false
+ },
+ "tb_0201": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0202": {
+  "vague_targets": 3,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": true
+ },
+ "tb_0204": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W3919881",
+    "item_ids": [
+     "5855700373"
+    ],
+    "payment_method_id": "gift_card_4387500"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0205": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": "Denver",
+  "twin_items": false
+ },
+ "tb_0207": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "463.43",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0208": {
+  "vague_targets": 1,
+  "change_of_mind": "drop",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Chicago",
+  "twin_items": false
+ },
+ "tb_0209": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W1483350",
+    "item_ids": [
+     "4983901480"
+    ],
+    "payment_method_id": "paypal_2319812"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0210": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0211": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0212": {
+  "vague_targets": 0,
+  "change_of_mind": "drop",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0213": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "368.15",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0216": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0217": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1291.82",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "San Diego",
+  "twin_items": false
+ },
+ "tb_0218": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "exchange_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0219": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": "186.45",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0220": {
+  "vague_targets": 0,
+  "change_of_mind": "switch",
+  "stated_amount": "187.23",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0221": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0222": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Dallas",
+  "twin_items": false
+ },
+ "tb_0223": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "53.53",
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0224": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "159.29",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Seattle",
+  "twin_items": false
+ },
+ "tb_0225": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W5560533",
+    "item_ids": [
+     "8054888773"
+    ],
+    "payment_method_id": "gift_card_5917510"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": "Columbus",
+  "twin_items": false
+ },
+ "tb_0226": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W9045919",
+    "item_ids": [
+     "6130713659"
+    ],
+    "new_item_ids": [
+     "7896397433"
+    ],
+    "payment_method_id": "credit_card_1982124"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0227": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0228": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": "San Diego",
+  "twin_items": false
+ },
+ "tb_0230": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "modify_pending_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0231": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "18.31",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0232": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0234": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0235": {
+  "vague_targets": 2,
+  "change_of_mind": "switch",
+  "stated_amount": "3323.61",
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": true
+ },
+ "tb_0236": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W6146740",
+    "item_ids": [
+     "1859994221"
+    ],
+    "new_item_ids": [
+     "9850781806"
+    ],
+    "payment_method_id": "gift_card_5245016"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0237": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0239": {
+  "vague_targets": 0,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0240": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0241": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "3047.67",
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0242": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1018.68",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0243": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0244": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W6075915",
+    "item_ids": [
+     "3232433601"
+    ],
+    "payment_method_id": "credit_card_7183597"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0246": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W5272531",
+    "item_ids": [
+     "7228247242"
+    ],
+    "payment_method_id": "credit_card_6824399"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": true
+ },
+ "tb_0247": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "398.07",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0248": {
+  "vague_targets": 3,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "New York",
+  "twin_items": true
+ },
+ "tb_0249": {
+  "vague_targets": 0,
+  "change_of_mind": "drop",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0250": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "554.33",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "Water Bottle",
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0251": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0254": {
+  "vague_targets": 2,
+  "change_of_mind": "switch",
+  "stated_amount": "2334.82",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0255": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "21.55",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0257": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": "3227.98",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0258": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0259": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W7764382",
+    "item_ids": [
+     "3334537816"
+    ],
+    "new_item_ids": [
+     "6017636844"
+    ],
+    "payment_method_id": "paypal_6982172"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0260": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "52.88",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0261": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": "San Diego",
+  "twin_items": false
+ },
+ "tb_0262": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "416.98",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0263": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "0.08",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0264": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0265": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0266": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "3005.33",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0269": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W8209112",
+    "item_ids": [
+     "3034017579"
+    ],
+    "payment_method_id": "credit_card_6428848"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": true,
+  "default_address": "San Francisco",
+  "twin_items": false
+ },
+ "tb_0270": {
+  "vague_targets": 1,
+  "change_of_mind": "drop",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "San Diego",
+  "twin_items": false
+ },
+ "tb_0271": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "31.00",
+  "forbidden_first": "exchange_delivered_order_items",
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0272": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "191.56",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0273": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0274": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W1579621",
+    "item_ids": [
+     "7184044281"
+    ],
+    "new_item_ids": [
+     "7493556126"
+    ],
+    "payment_method_id": "credit_card_9698900"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0276": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": "15.76",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0277": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0278": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "344.55",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0279": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W3952055",
+    "item_ids": [
+     "9970989750"
+    ],
+    "new_item_ids": [
+     "3526747930"
+    ],
+    "payment_method_id": "credit_card_1248375"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0280": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "768.80",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": true
+ },
+ "tb_0281": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Dallas",
+  "twin_items": false
+ },
+ "tb_0282": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "60.64",
+  "forbidden_first": "modify_pending_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Chicago",
+  "twin_items": false
+ },
+ "tb_0283": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W9941744",
+    "item_ids": [
+     "5886093635"
+    ],
+    "payment_method_id": "paypal_4439305"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0284": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0285": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "3267.94",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0286": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W2912153",
+    "item_ids": [
+     "9472539378"
+    ],
+    "payment_method_id": "credit_card_3081930"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0287": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "LED Light Bulb",
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0289": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0291": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0292": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "San Antonio",
+  "twin_items": false
+ },
+ "tb_0293": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "return_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0294": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0295": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0296": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W6977171",
+    "item_ids": [
+     "9635758562"
+    ],
+    "payment_method_id": "gift_card_6052478"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0297": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "13.92",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0298": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": "3570.34",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0299": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "489.62",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0300": {
+  "vague_targets": 0,
+  "change_of_mind": "switch",
+  "stated_amount": "251.82",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0301": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "158.41",
+  "forbidden_first": "return_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0302": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W5463717",
+    "item_ids": [
+     "7166996157"
+    ],
+    "new_item_ids": [
+     "9534205511"
+    ],
+    "payment_method_id": "gift_card_8006222"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0303": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0304": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Dallas",
+  "twin_items": false
+ },
+ "tb_0306": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": "1.42",
+  "forbidden_first": "modify_pending_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0307": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": "39.24",
+  "forbidden_first": "exchange_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0308": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "modify_pending_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0309": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "17.49",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0310": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0311": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "4.31",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0312": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": "3214.75",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Indianapolis",
+  "twin_items": false
+ },
+ "tb_0313": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0315": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Charlotte",
+  "twin_items": false
+ },
+ "tb_0316": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": "Los Angeles",
+  "twin_items": false
+ },
+ "tb_0317": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "3413.87",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": "Austin",
+  "twin_items": false
+ },
+ "tb_0318": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0319": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "75.54",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0320": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "677.66",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0321": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W6717215",
+    "item_ids": [
+     "1763705424"
+    ],
+    "payment_method_id": "gift_card_5501047"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0322": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Houston",
+  "twin_items": false
+ },
+ "tb_0323": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "585.97",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0324": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0325": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W4840405",
+    "item_ids": [
+     "7597543861"
+    ],
+    "new_item_ids": [
+     "2635605237"
+    ],
+    "payment_method_id": "gift_card_4710915"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0326": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W7303089",
+    "item_ids": [
+     "7381052709"
+    ],
+    "payment_method_id": "credit_card_4387170"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0327": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "32.29",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0329": {
+  "vague_targets": 1,
+  "change_of_mind": "drop",
+  "stated_amount": "3.34",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0330": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0332": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1306.75",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": false,
+  "default_address": "Phoenix",
+  "twin_items": false
+ },
+ "tb_0333": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": "879.26",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0335": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "475.26",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "Backpack",
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Denver",
+  "twin_items": false
+ },
+ "tb_0336": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": "145.48",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0338": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "6191.69",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0339": {
+  "vague_targets": 1,
+  "change_of_mind": "drop",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": true
+ },
+ "tb_0340": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W6821773",
+    "item_ids": [
+     "3062461148"
+    ],
+    "new_item_ids": [
+     "1349017811"
+    ],
+    "payment_method_id": "credit_card_4829249"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0341": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1639.64",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0342": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "exchange_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": true
+ },
+ "tb_0343": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W3638028",
+    "item_ids": [
+     "5810561222"
+    ],
+    "new_item_ids": [
+     "8470360507"
+    ],
+    "payment_method_id": "gift_card_1725971"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0344": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1438.85",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "Tablet",
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0346": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1224.69",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "Sunglasses",
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0347": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "exchange_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0348": {
+  "vague_targets": 1,
+  "change_of_mind": "drop",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0350": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0352": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": "3252.45",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0353": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0354": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "exchange_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0355": {
+  "vague_targets": 0,
+  "change_of_mind": "drop",
+  "stated_amount": "2940.71",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0356": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "391.43",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0357": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": "Seattle",
+  "twin_items": false
+ },
+ "tb_0358": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "32.05",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0359": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1994.67",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0361": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "4.08",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0362": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0363": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W9552705",
+    "item_ids": [
+     "6697922351"
+    ],
+    "new_item_ids": [
+     "1596993217"
+    ],
+    "payment_method_id": "gift_card_8922351"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0364": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W9389413",
+    "item_ids": [
+     "4127323219"
+    ],
+    "payment_method_id": "paypal_5364164"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0366": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "635.59",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0367": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0370": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0371": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": "2138.02",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0372": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0373": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W1519594",
+    "item_ids": [
+     "1646531091"
+    ],
+    "payment_method_id": "gift_card_1711656"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0374": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0375": {
+  "vague_targets": 2,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0377": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": "4299.75",
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0378": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "322.52",
+  "forbidden_first": "return_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0379": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0381": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W2274128",
+    "item_ids": [
+     "5510402676"
+    ],
+    "new_item_ids": [
+     "7609274509"
+    ],
+    "payment_method_id": "gift_card_3372949"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0382": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W8632528",
+    "item_ids": [
+     "2185126308"
+    ],
+    "new_item_ids": [
+     "8277474082"
+    ],
+    "payment_method_id": "gift_card_7219486"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0383": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "modify_pending_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0384": {
+  "vague_targets": 2,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0385": {
+  "vague_targets": 0,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Fort Worth",
+  "twin_items": false
+ },
+ "tb_0386": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "881.58",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Chicago",
+  "twin_items": false
+ },
+ "tb_0387": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "494.78",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0388": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1657.25",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0389": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W6818211",
+    "item_ids": [
+     "2913673670"
+    ],
+    "payment_method_id": "gift_card_5437583"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0390": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "3204.43",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0391": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "787.70",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0392": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W4840405",
+    "item_ids": [
+     "7597543861"
+    ],
+    "payment_method_id": "gift_card_4710915"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0394": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W8727985",
+    "item_ids": [
+     "9030221155"
+    ],
+    "payment_method_id": "gift_card_9450778"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0395": {
+  "vague_targets": 0,
+  "change_of_mind": "switch",
+  "stated_amount": "244.95",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0396": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W6026015",
+    "item_ids": [
+     "8964750292"
+    ],
+    "new_item_ids": [
+     "8926329222"
+    ],
+    "payment_method_id": "credit_card_6361025"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0397": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": "Dallas",
+  "twin_items": false
+ },
+ "tb_0398": {
+  "vague_targets": 0,
+  "change_of_mind": "drop",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0399": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "cancel_pending_order",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0400": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W3942875",
+    "item_ids": [
+     "9779102705"
+    ],
+    "new_item_ids": [
+     "9665100170"
+    ],
+    "payment_method_id": "gift_card_5701566"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0401": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0402": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "22.38",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0403": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0404": {
+  "vague_targets": 2,
+  "change_of_mind": "switch",
+  "stated_amount": "9715.41",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0405": {
+  "vague_targets": 0,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0406": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "return_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0407": {
+  "vague_targets": 3,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0410": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "430.20",
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0411": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "132.15",
+  "forbidden_first": "exchange_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0412": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W5881725",
+    "item_ids": [
+     "4063058357"
+    ],
+    "payment_method_id": "paypal_8305620"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0413": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "Bookshelf",
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0414": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "53.91",
+  "forbidden_first": "return_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0415": {
+  "vague_targets": 1,
+  "change_of_mind": "drop",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": true,
+  "default_address": "San Francisco",
+  "twin_items": false
+ },
+ "tb_0417": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "287.79",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "Desk Lamp",
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0419": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "exchange_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0420": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": "190.96",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0421": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0422": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "New York",
+  "twin_items": false
+ },
+ "tb_0423": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0424": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "6.60",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0425": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0426": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W7678072",
+    "item_ids": [
+     "2323972008"
+    ],
+    "payment_method_id": "paypal_5727330"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0428": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W9552705",
+    "item_ids": [
+     "1178356107"
+    ],
+    "new_item_ids": [
+     "7884173033"
+    ],
+    "payment_method_id": "gift_card_8922351"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0429": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0430": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "return_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0434": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "32.36",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0435": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W7764382",
+    "item_ids": [
+     "5067898160"
+    ],
+    "new_item_ids": [
+     "6942241102"
+    ],
+    "payment_method_id": "paypal_6982172"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": "Chicago",
+  "twin_items": false
+ },
+ "tb_0436": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0437": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": "33.13",
+  "forbidden_first": "modify_pending_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0438": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "997.88",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0439": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "34.56",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": "Columbus",
+  "twin_items": false
+ },
+ "tb_0440": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1169.17",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0442": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0443": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": true
+ },
+ "tb_0444": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W8336711",
+    "item_ids": [
+     "9644439410"
+    ],
+    "payment_method_id": "paypal_3473552"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0445": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0446": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "2726.65",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0447": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "Jigsaw Puzzle",
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0448": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "return_delivered_order_items",
+   "arguments": {
+    "order_id": "#W6519831",
+    "item_ids": [
+     "3624655057"
+    ],
+    "payment_method_id": "credit_card_5353742"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "San Jose",
+  "twin_items": false
+ },
+ "tb_0449": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "3895.52",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0450": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0452": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0453": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0454": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": "68.83",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0455": {
+  "vague_targets": 2,
+  "change_of_mind": "switch",
+  "stated_amount": "2622.68",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0456": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0457": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0458": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0459": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0460": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "21.67",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0461": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "3227.98",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0462": {
+  "vague_targets": 2,
+  "change_of_mind": "drop",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": true,
+  "default_address": "Washington",
+  "twin_items": false
+ },
+ "tb_0463": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0465": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0466": {
+  "vague_targets": 2,
+  "change_of_mind": false,
+  "stated_amount": "19.52",
+  "forbidden_first": "modify_pending_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0467": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0468": {
+  "vague_targets": 0,
+  "change_of_mind": "drop",
+  "stated_amount": "2335.70",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": "New York",
+  "twin_items": false
+ },
+ "tb_0470": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "12.55",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": "Los Angeles",
+  "twin_items": false
+ },
+ "tb_0471": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W4824466",
+    "item_ids": [
+     "2235648106"
+    ],
+    "new_item_ids": [
+     "2106335193"
+    ],
+    "payment_method_id": "gift_card_9919420"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0472": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "6.11",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0475": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0476": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1708.42",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "tracking",
+  "by_destination": true,
+  "default_address": "Phoenix",
+  "twin_items": false
+ },
+ "tb_0477": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "298.13",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0479": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0480": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1250.62",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0481": {
+  "vague_targets": 0,
+  "change_of_mind": "switch",
+  "stated_amount": "208.07",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0482": {
+  "vague_targets": 0,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0483": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "22.63",
+  "forbidden_first": "modify_pending_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0484": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1758.64",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0485": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "5.75",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "San Antonio",
+  "twin_items": false
+ },
+ "tb_0486": {
+  "vague_targets": 1,
+  "change_of_mind": "switch",
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0487": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W6304490",
+    "item_ids": [
+     "4983901480"
+    ],
+    "new_item_ids": [
+     "4953074738"
+    ],
+    "payment_method_id": "credit_card_4420174"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0488": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "4079.45",
+  "forbidden_first": "cancel_pending_order",
+  "decoy": true,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": false,
+  "default_address": "San Diego",
+  "twin_items": false
+ },
+ "tb_0489": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "1018.68",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0490": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "352.33",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": "Electric Kettle",
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0491": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0492": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0493": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": "46.85",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0494": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0495": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": {
+   "name": "exchange_delivered_order_items",
+   "arguments": {
+    "order_id": "#W9694847",
+    "item_ids": [
+     "6921939887"
+    ],
+    "new_item_ids": [
+     "7896397433"
+    ],
+    "payment_method_id": "credit_card_2902980"
+   }
+  },
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": "Charlotte",
+  "twin_items": false
+ },
+ "tb_0496": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "10.09",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0497": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": "total",
+  "by_destination": true,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tb_0498": {
+  "vague_targets": 1,
+  "change_of_mind": false,
+  "stated_amount": "21.37",
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": true
+ },
+ "tb_0499": {
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": "return_delivered_order_items",
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0010_0082": {
+  "combined_from": [
+   "tb_0010",
+   "tb_0082"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0019_0225": {
+  "combined_from": [
+   "tb_0019",
+   "tb_0225"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0031_0219": {
+  "combined_from": [
+   "tb_0031",
+   "tb_0219"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0037_0095": {
+  "combined_from": [
+   "tb_0037",
+   "tb_0095"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0046_0108": {
+  "combined_from": [
+   "tb_0046",
+   "tb_0108"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0179_0190": {
+  "combined_from": [
+   "tb_0179",
+   "tb_0190"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0059_0463": {
+  "combined_from": [
+   "tb_0059",
+   "tb_0463"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0061_0492": {
+  "combined_from": [
+   "tb_0061",
+   "tb_0492"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0062_0107": {
+  "combined_from": [
+   "tb_0062",
+   "tb_0107"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0259_0372": {
+  "combined_from": [
+   "tb_0259",
+   "tb_0372"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0065_0211": {
+  "combined_from": [
+   "tb_0065",
+   "tb_0211"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0088_0307": {
+  "combined_from": [
+   "tb_0088",
+   "tb_0307"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0090_0411": {
+  "combined_from": [
+   "tb_0090",
+   "tb_0411"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0091_0487": {
+  "combined_from": [
+   "tb_0091",
+   "tb_0487"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0099_0235": {
+  "combined_from": [
+   "tb_0099",
+   "tb_0235"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0106_0300": {
+  "combined_from": [
+   "tb_0106",
+   "tb_0300"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0110_0217": {
+  "combined_from": [
+   "tb_0110",
+   "tb_0217"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0111_0496": {
+  "combined_from": [
+   "tb_0111",
+   "tb_0496"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0114_0236": {
+  "combined_from": [
+   "tb_0114",
+   "tb_0236"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0116_0332": {
+  "combined_from": [
+   "tb_0116",
+   "tb_0332"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0231_0476": {
+  "combined_from": [
+   "tb_0231",
+   "tb_0476"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0221_0298": {
+  "combined_from": [
+   "tb_0221",
+   "tb_0298"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0123_0347": {
+  "combined_from": [
+   "tb_0123",
+   "tb_0347"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0141_0310": {
+  "combined_from": [
+   "tb_0141",
+   "tb_0310"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0274_0311": {
+  "combined_from": [
+   "tb_0274",
+   "tb_0311"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0374_0484": {
+  "combined_from": [
+   "tb_0374",
+   "tb_0484"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0210_0272": {
+  "combined_from": [
+   "tb_0210",
+   "tb_0272"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0157_0163": {
+  "combined_from": [
+   "tb_0157",
+   "tb_0163"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0164_0207": {
+  "combined_from": [
+   "tb_0164",
+   "tb_0207"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0172_0379": {
+  "combined_from": [
+   "tb_0172",
+   "tb_0379"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0175_0467": {
+  "combined_from": [
+   "tb_0175",
+   "tb_0467"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0187_0444": {
+  "combined_from": [
+   "tb_0187",
+   "tb_0444"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0188_0216": {
+  "combined_from": [
+   "tb_0188",
+   "tb_0216"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0195_0475": {
+  "combined_from": [
+   "tb_0195",
+   "tb_0475"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0197_0449": {
+  "combined_from": [
+   "tb_0197",
+   "tb_0449"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0202_0338": {
+  "combined_from": [
+   "tb_0202",
+   "tb_0338"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0239_0302": {
+  "combined_from": [
+   "tb_0239",
+   "tb_0302"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0254_0439": {
+  "combined_from": [
+   "tb_0254",
+   "tb_0439"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0273_0287": {
+  "combined_from": [
+   "tb_0273",
+   "tb_0287"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0277_0357": {
+  "combined_from": [
+   "tb_0277",
+   "tb_0357"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0282_0371": {
+  "combined_from": [
+   "tb_0282",
+   "tb_0371"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0294_0326": {
+  "combined_from": [
+   "tb_0294",
+   "tb_0326"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0327_0353": {
+  "combined_from": [
+   "tb_0327",
+   "tb_0353"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ },
+ "tbc_0381_0470": {
+  "combined_from": [
+   "tb_0381",
+   "tb_0470"
+  ],
+  "vague_targets": 0,
+  "change_of_mind": false,
+  "stated_amount": null,
+  "forbidden_first": null,
+  "decoy": false,
+  "conflict": null,
+  "add_at_confirm": null,
+  "info_question": null,
+  "by_destination": false,
+  "default_address": null,
+  "twin_items": false
+ }
+}

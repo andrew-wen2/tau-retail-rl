@@ -1,0 +1,3094 @@
+{
+ "tt_items_addr_L1_000": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_000": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_001": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_002": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_003": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_004": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_005": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_006": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_007": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_008": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_009": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_010": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_011": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_012": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_013": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_014": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_015": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_016": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_017": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_001": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_018": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_019": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_020": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_000": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_021": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_022": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_001": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_023": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_002": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_002": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_024": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_025": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_003": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_026": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_027": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_028": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_029": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_030": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_031": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_032": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_033": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_034": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_035": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_036": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_004": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_037": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_003": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_005": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_038": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_039": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_006": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_040": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_041": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_042": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_043": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_004": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_007": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_044": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_045": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_008": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_046": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_047": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_048": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_049": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_050": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_009": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_051": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_005": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_052": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_053": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_006": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_054": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_055": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_007": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_010": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_056": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_008": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_057": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_058": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_059": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_060": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_061": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_062": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_011": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_063": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_009": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_012": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_064": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_065": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_066": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_067": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_010": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_013": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_068": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_011": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_014": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_069": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_070": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_015": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_071": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_012": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_016": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_072": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_013": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_073": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_074": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_014": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_075": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_076": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_077": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_078": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_079": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_080": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_017": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_081": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_015": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_082": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_083": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_016": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_084": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_085": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_017": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_018": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_086": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_018": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_087": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_088": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_089": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_090": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_091": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_019": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_019": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_092": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_020": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_020": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_093": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_094": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_021": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_095": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_021": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_022": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_096": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_097": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_098": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_099": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_100": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_101": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_102": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_103": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_023": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_104": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_105": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_106": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_107": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_108": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_109": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_110": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_022": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_111": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_112": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_113": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_114": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_115": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_116": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_024": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_117": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_023": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_118": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_119": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_024": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_120": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_121": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_122": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L3_025": {
+  "family": "items_addr",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_items_addr_L1_123": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_124": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_125": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_126": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_items_addr_L2_025": {
+  "family": "items_addr",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_items_addr_L1_127": {
+  "family": "items_addr",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_decoy_first_L1_000": {
+  "family": "decoy_first",
+  "level": 1,
+  "decoys": 1
+ },
+ "tt_decoy_first_L2_000": {
+  "family": "decoy_first",
+  "level": 2,
+  "decoys": 1
+ },
+ "tt_decoy_first_L3_000": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 1
+ },
+ "tt_decoy_first_L1_001": {
+  "family": "decoy_first",
+  "level": 1,
+  "decoys": 1
+ },
+ "tt_decoy_first_L2_001": {
+  "family": "decoy_first",
+  "level": 2,
+  "decoys": 1
+ },
+ "tt_decoy_first_L3_001": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 1
+ },
+ "tt_decoy_first_L1_002": {
+  "family": "decoy_first",
+  "level": 1,
+  "decoys": 1
+ },
+ "tt_decoy_first_L2_002": {
+  "family": "decoy_first",
+  "level": 2,
+  "decoys": 1
+ },
+ "tt_decoy_first_L3_002": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 1
+ },
+ "tt_decoy_first_L1_003": {
+  "family": "decoy_first",
+  "level": 1,
+  "decoys": 1
+ },
+ "tt_decoy_first_L2_003": {
+  "family": "decoy_first",
+  "level": 2,
+  "decoys": 1
+ },
+ "tt_decoy_first_L3_003": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 1
+ },
+ "tt_decoy_first_L1_004": {
+  "family": "decoy_first",
+  "level": 1,
+  "decoys": 1
+ },
+ "tt_decoy_first_L2_004": {
+  "family": "decoy_first",
+  "level": 2,
+  "decoys": 1
+ },
+ "tt_decoy_first_L3_004": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 1
+ },
+ "tt_decoy_first_L1_005": {
+  "family": "decoy_first",
+  "level": 1,
+  "decoys": 1
+ },
+ "tt_decoy_first_L2_005": {
+  "family": "decoy_first",
+  "level": 2,
+  "decoys": 1
+ },
+ "tt_decoy_first_L3_005": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 1
+ },
+ "tt_decoy_first_L1_006": {
+  "family": "decoy_first",
+  "level": 1,
+  "decoys": 1
+ },
+ "tt_decoy_first_L3_006": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 2
+ },
+ "tt_decoy_first_L3_007": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 1
+ },
+ "tt_decoy_first_L1_007": {
+  "family": "decoy_first",
+  "level": 1,
+  "decoys": 1
+ },
+ "tt_decoy_first_L2_006": {
+  "family": "decoy_first",
+  "level": 2,
+  "decoys": 1
+ },
+ "tt_decoy_first_L3_008": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 1
+ },
+ "tt_decoy_first_L1_008": {
+  "family": "decoy_first",
+  "level": 1,
+  "decoys": 1
+ },
+ "tt_decoy_first_L2_007": {
+  "family": "decoy_first",
+  "level": 2,
+  "decoys": 1
+ },
+ "tt_decoy_first_L3_009": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 1
+ },
+ "tt_decoy_first_L3_010": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 1
+ },
+ "tt_decoy_first_L2_008": {
+  "family": "decoy_first",
+  "level": 2,
+  "decoys": 1
+ },
+ "tt_decoy_first_L3_011": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 1
+ },
+ "tt_decoy_first_L1_009": {
+  "family": "decoy_first",
+  "level": 1,
+  "decoys": 1
+ },
+ "tt_decoy_first_L2_009": {
+  "family": "decoy_first",
+  "level": 2,
+  "decoys": 1
+ },
+ "tt_decoy_first_L3_012": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 1
+ },
+ "tt_decoy_first_L1_010": {
+  "family": "decoy_first",
+  "level": 1,
+  "decoys": 1
+ },
+ "tt_decoy_first_L2_010": {
+  "family": "decoy_first",
+  "level": 2,
+  "decoys": 1
+ },
+ "tt_decoy_first_L3_013": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 1
+ },
+ "tt_decoy_first_L1_011": {
+  "family": "decoy_first",
+  "level": 1,
+  "decoys": 1
+ },
+ "tt_decoy_first_L3_014": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 1
+ },
+ "tt_decoy_first_L3_015": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 1
+ },
+ "tt_decoy_first_L1_012": {
+  "family": "decoy_first",
+  "level": 1,
+  "decoys": 1
+ },
+ "tt_decoy_first_L2_011": {
+  "family": "decoy_first",
+  "level": 2,
+  "decoys": 1
+ },
+ "tt_decoy_first_L3_016": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 1
+ },
+ "tt_decoy_first_L1_013": {
+  "family": "decoy_first",
+  "level": 1,
+  "decoys": 1
+ },
+ "tt_decoy_first_L2_012": {
+  "family": "decoy_first",
+  "level": 2,
+  "decoys": 1
+ },
+ "tt_decoy_first_L3_017": {
+  "family": "decoy_first",
+  "level": 3,
+  "decoys": 1
+ },
+ "tt_keep_options_L1_000": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_000": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_000": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_001": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_001": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_001": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_002": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_002": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_002": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_003": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_003": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_003": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_004": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_004": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_004": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_005": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_005": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_005": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_006": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_006": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_006": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_007": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_007": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_007": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_008": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_008": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_008": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_009": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_009": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_009": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_010": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_010": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_010": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_011": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_011": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_011": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_012": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_012": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_012": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_013": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_013": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_013": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_014": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_014": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_014": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_015": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_015": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_015": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_016": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_016": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_016": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_017": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_017": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_017": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_018": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_018": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_018": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_019": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_019": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_019": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_020": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_020": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_020": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_021": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_021": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_021": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_022": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_022": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_022": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_023": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_023": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_023": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_024": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_024": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_024": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_025": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_025": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_025": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_026": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_026": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_026": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_027": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_027": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_027": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_028": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_028": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_028": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_029": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_029": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_029": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_030": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_030": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_030": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_031": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_031": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_031": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_032": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_032": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_032": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_033": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_033": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_033": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_034": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_034": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_034": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_035": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_035": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_035": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_036": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_036": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_036": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_037": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_037": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_037": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_038": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_038": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_038": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_039": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_039": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_039": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_040": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_040": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_040": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_041": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_041": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_041": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_042": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_042": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_042": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_043": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_043": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_043": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_044": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_044": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_044": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_045": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_045": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_045": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_046": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_046": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_046": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_047": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_047": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_047": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_048": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_048": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_048": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_049": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_049": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_049": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_050": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_050": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_050": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_051": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_051": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_051": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_052": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_052": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_052": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_053": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_053": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_053": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_054": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_054": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_054": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_055": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_055": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_055": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_056": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_056": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_056": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_057": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_057": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_057": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_058": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_058": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_058": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_keep_options_L1_059": {
+  "family": "keep_options",
+  "level": 1,
+  "n_items": 1
+ },
+ "tt_keep_options_L2_059": {
+  "family": "keep_options",
+  "level": 2,
+  "n_items": 1
+ },
+ "tt_keep_options_L3_059": {
+  "family": "keep_options",
+  "level": 3,
+  "n_items": 2
+ },
+ "tt_pairing_L1_000": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_000": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_001": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_001": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_002": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_003": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_002": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_004": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_005": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_003": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_006": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L3_000": {
+  "family": "pairing",
+  "level": 3,
+  "kind": "twin"
+ },
+ "tt_pairing_L1_004": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_007": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_008": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_005": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_009": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_010": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_006": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_011": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_012": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_007": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_013": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_014": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_008": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_015": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_016": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_009": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_017": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_018": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_010": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_019": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_020": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_011": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_021": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_022": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_012": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_023": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_024": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_013": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_025": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L3_001": {
+  "family": "pairing",
+  "level": 3,
+  "kind": "twin"
+ },
+ "tt_pairing_L1_014": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_026": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_027": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_015": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_028": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_029": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_016": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_030": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_031": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_017": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_032": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_033": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_018": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_034": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L3_002": {
+  "family": "pairing",
+  "level": 3,
+  "kind": "twin"
+ },
+ "tt_pairing_L1_019": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_035": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_036": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_020": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_037": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_038": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_021": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_039": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_040": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_022": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_041": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_042": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_023": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_043": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_044": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_024": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_045": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_046": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_025": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_047": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L3_003": {
+  "family": "pairing",
+  "level": 3,
+  "kind": "twin"
+ },
+ "tt_pairing_L1_026": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_048": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L3_004": {
+  "family": "pairing",
+  "level": 3,
+  "kind": "twin"
+ },
+ "tt_pairing_L1_027": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_049": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_050": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_028": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_051": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_052": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_029": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_053": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_054": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_030": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_055": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_056": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_031": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_057": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_058": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_032": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_059": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_060": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_033": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_061": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L3_005": {
+  "family": "pairing",
+  "level": 3,
+  "kind": "twin"
+ },
+ "tt_pairing_L1_034": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_062": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_063": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_035": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_064": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_065": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_036": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_066": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_067": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_037": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_068": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_069": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_038": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_070": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L3_006": {
+  "family": "pairing",
+  "level": 3,
+  "kind": "twin"
+ },
+ "tt_pairing_L1_039": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_071": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L3_007": {
+  "family": "pairing",
+  "level": 3,
+  "kind": "twin"
+ },
+ "tt_pairing_L1_040": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_072": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_073": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_041": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_074": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L3_008": {
+  "family": "pairing",
+  "level": 3,
+  "kind": "twin"
+ },
+ "tt_pairing_L1_042": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_075": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_076": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_043": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_077": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_078": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_044": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_079": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_080": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_045": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_081": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_082": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_046": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_083": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_084": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_047": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_085": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_086": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_048": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_087": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L3_009": {
+  "family": "pairing",
+  "level": 3,
+  "kind": "twin"
+ },
+ "tt_pairing_L1_049": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_088": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_089": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_050": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_090": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_091": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_051": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_092": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_093": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_052": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_094": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L3_010": {
+  "family": "pairing",
+  "level": 3,
+  "kind": "twin"
+ },
+ "tt_pairing_L1_053": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_095": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_096": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_054": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_097": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L3_011": {
+  "family": "pairing",
+  "level": 3,
+  "kind": "twin"
+ },
+ "tt_pairing_L1_055": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_098": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L3_012": {
+  "family": "pairing",
+  "level": 3,
+  "kind": "twin"
+ },
+ "tt_pairing_L1_056": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_099": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_100": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_057": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_101": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_102": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_058": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_103": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_104": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L1_059": {
+  "family": "pairing",
+  "level": 1,
+  "kind": "reversed",
+  "n_items": 2
+ },
+ "tt_pairing_L2_105": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ },
+ "tt_pairing_L2_106": {
+  "family": "pairing",
+  "level": 2,
+  "kind": "reversed",
+  "n_items": 3
+ }
+}

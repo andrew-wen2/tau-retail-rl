@@ -1,0 +1,1850 @@
+{
+ "tb_0000": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0001": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0002": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0003": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0004": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0006": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0009": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0010": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0012": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0013": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0014": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0015": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0016": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0017": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0018": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0019": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0020": {
+  "successes": 2,
+  "trials": 8
+ },
+ "tb_0021": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0023": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0025": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0026": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0028": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0030": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0031": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0032": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0033": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0034": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0037": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0038": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0039": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tb_0040": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0041": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0042": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0043": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0044": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0045": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0046": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0049": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0050": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0051": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0052": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0054": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0056": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0058": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0059": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tb_0060": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0061": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0062": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0063": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0064": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0065": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0066": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0067": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0068": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0069": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0071": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0072": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0074": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0075": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0076": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tb_0077": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0078": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0079": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0080": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0082": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0085": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0086": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0087": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0088": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0089": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0090": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0091": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0092": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tb_0093": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0094": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0095": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0096": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0097": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0098": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0099": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tb_0100": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0101": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0102": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0103": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0104": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0105": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0106": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0107": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0108": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0110": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0111": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0112": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0113": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0114": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0115": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0116": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0117": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0118": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0119": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0120": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0121": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0122": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0123": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0124": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0125": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0126": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0127": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0128": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0129": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0131": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0132": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0133": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0134": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0135": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0137": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0138": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0139": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0140": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0141": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0143": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0145": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0146": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0147": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tb_0149": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0151": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0153": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0155": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0156": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0157": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0158": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0159": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0160": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0162": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0163": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0164": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0166": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0167": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0168": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0169": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0171": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0172": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0174": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0175": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0176": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0177": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0178": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0179": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0180": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0181": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0182": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0183": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0184": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0185": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0186": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0187": {
+  "successes": 2,
+  "trials": 8
+ },
+ "tb_0188": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0189": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0190": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0191": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0193": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0195": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0196": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0197": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tb_0198": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0199": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0200": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0201": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0202": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0204": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0205": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0207": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0208": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0209": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0210": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0211": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0212": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0213": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0216": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0217": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0218": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0219": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0220": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0221": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0222": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0223": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0224": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0225": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0226": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0227": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0228": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0230": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0231": {
+  "successes": 2,
+  "trials": 8
+ },
+ "tb_0232": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0234": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0235": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0236": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0237": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0239": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0240": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0241": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0242": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0243": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0244": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0246": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0247": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0248": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0249": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0250": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0251": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0254": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0255": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0257": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0258": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0259": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0260": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0261": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0262": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0263": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0264": {
+  "successes": 2,
+  "trials": 8
+ },
+ "tb_0265": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0266": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0269": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0270": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0271": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0272": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0273": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0274": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0276": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0277": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tb_0278": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0279": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0280": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0281": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0282": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0283": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0284": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0285": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0286": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0287": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0289": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0291": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0292": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0293": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0294": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0295": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0296": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0297": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0298": {
+  "successes": 2,
+  "trials": 8
+ },
+ "tb_0299": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0300": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0301": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0302": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0303": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0304": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tb_0306": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0307": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tb_0308": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0309": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0310": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0311": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0312": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0313": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0315": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0316": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0317": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0318": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tb_0319": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0320": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0321": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0322": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0323": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0324": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0325": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0326": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0327": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0329": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0330": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0332": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0333": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0335": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0336": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0338": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0339": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0340": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0341": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0342": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0343": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0344": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0346": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0347": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0348": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0350": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0352": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0353": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0354": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0355": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0356": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0357": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0358": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0359": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0361": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0362": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0363": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0364": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0366": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0367": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0370": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0371": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0372": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0373": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0374": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0375": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0377": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tb_0378": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0379": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0381": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0382": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0383": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0384": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0385": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0386": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0387": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0388": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0389": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0390": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0391": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0392": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0394": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0395": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0396": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0397": {
+  "successes": 2,
+  "trials": 8
+ },
+ "tb_0398": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0399": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0400": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0401": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0402": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0403": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0404": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0405": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0406": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0407": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0410": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0411": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0412": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0413": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0414": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0415": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0417": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0419": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0420": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0421": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0422": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0423": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0424": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0425": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0426": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0428": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0429": {
+  "successes": 2,
+  "trials": 8
+ },
+ "tb_0430": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0434": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0435": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0436": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0437": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0438": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0439": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0440": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0442": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0443": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0444": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0445": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tb_0446": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0447": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0448": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0449": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0450": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0452": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0453": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0454": {
+  "successes": 2,
+  "trials": 8
+ },
+ "tb_0455": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0456": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0457": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0458": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0459": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0460": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0461": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0462": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0463": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tb_0465": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0466": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tb_0467": {
+  "successes": 2,
+  "trials": 8
+ },
+ "tb_0468": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0470": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tb_0471": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0472": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0475": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0476": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0477": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0479": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0480": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0481": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0482": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0483": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0484": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0485": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0486": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0487": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0488": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0489": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tb_0490": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tb_0491": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0492": {
+  "successes": 5,
+  "trials": 8
+ },
+ "tb_0493": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0494": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tb_0495": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tb_0496": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0497": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tb_0498": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tb_0499": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tbc_0010_0082": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tbc_0019_0225": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tbc_0031_0219": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tbc_0037_0095": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tbc_0046_0108": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tbc_0059_0463": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tbc_0061_0492": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tbc_0062_0107": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tbc_0065_0211": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tbc_0088_0307": {
+  "successes": 2,
+  "trials": 8
+ },
+ "tbc_0090_0411": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tbc_0091_0487": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tbc_0099_0235": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tbc_0106_0300": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tbc_0110_0217": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tbc_0111_0496": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tbc_0114_0236": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tbc_0116_0332": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tbc_0123_0347": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tbc_0141_0310": {
+  "successes": 3,
+  "trials": 8
+ },
+ "tbc_0157_0163": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tbc_0164_0207": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tbc_0172_0379": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tbc_0175_0467": {
+  "successes": 2,
+  "trials": 8
+ },
+ "tbc_0179_0190": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tbc_0187_0444": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tbc_0188_0216": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tbc_0195_0475": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tbc_0197_0449": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tbc_0202_0338": {
+  "successes": 1,
+  "trials": 8
+ },
+ "tbc_0210_0272": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tbc_0221_0298": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tbc_0231_0476": {
+  "successes": 2,
+  "trials": 8
+ },
+ "tbc_0239_0302": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tbc_0254_0439": {
+  "successes": 4,
+  "trials": 8
+ },
+ "tbc_0259_0372": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tbc_0273_0287": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tbc_0274_0311": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tbc_0277_0357": {
+  "successes": 6,
+  "trials": 8
+ },
+ "tbc_0282_0371": {
+  "successes": 7,
+  "trials": 8
+ },
+ "tbc_0294_0326": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tbc_0327_0353": {
+  "successes": 0,
+  "trials": 8
+ },
+ "tbc_0374_0484": {
+  "successes": 8,
+  "trials": 8
+ },
+ "tbc_0381_0470": {
+  "successes": 5,
+  "trials": 8
+ }
+}
